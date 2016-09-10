@@ -1,1 +1,9 @@
 target
+.gitignore
+.idea/compiler.xml
+.idea/copyright/
+.idea/libraries/
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+src/test/

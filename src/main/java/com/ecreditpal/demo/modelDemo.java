@@ -1,4 +1,4 @@
-package com.ecreditpal.com.ecreditpal.demo;
+package com.ecreditpal.demo;
 
 import java.io.*;
 import java.util.*;
